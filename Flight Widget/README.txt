@@ -1,0 +1,1 @@
+Project with animation of turning random flight data with letters and numbers. Turn on this application to working is enough. There are Random data which are changing with every turn. 
